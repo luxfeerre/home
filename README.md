@@ -1,6 +1,7 @@
 # home
-Solutions built by Luxferre.\n
-The solutions posted here can be frely used for intrested partis who are thinking about releated solutions. \n
+Solutions built by Luxferre.
+
+The solutions posted here can be frely used for intrested partis who are thinking about releated solutions.
 
 The environment with a hardened ESXI, pfsense and tpot setup is based on Esxi 6.7.
 This is a report for a school project in the start of my carer and the analyziz that is done in this report is not 100 % correct.
